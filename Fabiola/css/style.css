@@ -1,0 +1,17 @@
+.boton-whatsapp {
+    background-color: #25D366; /* Color de fondo verde */
+    color: white; /* Color del texto */
+    padding: 12px 30px; /* Espaciado interno del botón */
+    border-radius: 30px; /* Bordes redondeados */
+    text-decoration: none; /* Sin subrayado */
+    font-size: 18px; /* Tamaño de la fuente */
+    display: inline-block; /* Asegura que el botón se comporte como un bloque */
+    text-align: center; /* Centra el texto */
+    border: none; /* Sin borde */
+    transition: background-color 0.3s; /* Efecto suave para el hover */
+}
+
+.boton-whatsapp:hover {
+    background-color: #128C7E; /* Color de fondo al pasar el mouse */
+    color: white; /* Color del texto en hover */
+}
